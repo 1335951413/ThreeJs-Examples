@@ -1,6 +1,6 @@
 <h1 align="center">ThreeJs-Examples</h1>
 
-<h4 align="center">在线访问 <a target="_blank" href="https://jiawanlong.github.io/examples/threeEx/examples.html#base-m666ap">https://jiawanlong.github.io/examples/threeEx/examples.html#base-m666ap</a> </h4>
+<h4 align="center">在线访问 <a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/examples/threeEx/examples.html#base-m666ap">https://jiawanlong.github.io/Cesium-Examples/examples/threeEx/examples.html#base-m666ap</a> </h4>
 <h4 align="center">200＋Cesium.js示例 <a target="_blank" href="https://github.com/jiawanlong/Cesium-Examples/">https://github.com/jiawanlong/Cesium-Examples/</a> </h4>
 
 
